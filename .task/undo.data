@@ -127,3 +127,6 @@ time 1557045193
 old [description:"Buy a 128G udisk for kids program prio:M" due:"1559232000" entry:"1557045145" modified:"1557045145" project:"home" status:"pending" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
 new [description:"Buy a 128G udisk for kids program prio:M" due:"1559232000" entry:"1557045145" modified:"1557045193" priority:"M" project:"home" status:"pending" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
 ---
+time 1557058068
+new [description:"buy a tea table cloth and clean the table" due:"1559318400" entry:"1557058068" modified:"1557058068" priority:"H" project:"home" status:"pending" uuid:"7967ccff-a53d-49ae-8cf9-30f728fb7b37"]
+---

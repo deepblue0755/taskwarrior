@@ -39,3 +39,4 @@
 {"description":"Buy A Mac Pro","due":"20191130T160000Z","entry":"20190505T073525Z","modified":"20190505T073525Z","priority":"L","project":"home","status":"pending","uuid":"8ceef7b9-0519-433d-9949-9be225b91a4f"}
 {"description":"Buy a 128G udisk for kids program prio:M","due":"20190530T160000Z","entry":"20190505T083225Z","modified":"20190505T083225Z","project":"home","status":"pending","uuid":"9930e21e-3285-4383-ad83-f5d9b09731ae"}
 {"description":"Buy a 128G udisk for kids program prio:M","due":"20190530T160000Z","entry":"20190505T083225Z","modified":"20190505T083313Z","priority":"M","project":"home","status":"pending","uuid":"9930e21e-3285-4383-ad83-f5d9b09731ae"}
+{"description":"buy a tea table cloth and clean the table","due":"20190531T160000Z","entry":"20190505T120748Z","modified":"20190505T120748Z","priority":"H","project":"home","status":"pending","uuid":"7967ccff-a53d-49ae-8cf9-30f728fb7b37"}
