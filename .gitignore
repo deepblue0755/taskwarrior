@@ -1,0 +1,17 @@
+~/.cache/*
+~/.dia
+~/.dia/objects
+~/.dia/shapes
+~/.dia/sheets
+~/.ssh
+~/.bash_history
+~/.bash_profile
+~/.minttyrc
+~/.sam-ba.historysource
+~/.viminfo
+~/.wget-hsts
+~/en.prepl
+~/en.pws
+~/psv.ini
+~/_sam-ba.rc
+~/_viminfo
