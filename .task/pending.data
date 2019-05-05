@@ -1,0 +1,3 @@
+[description:"Build A High Performance Linux Server" due:"1561910400" entry:"1556465621" modified:"1557023709" priority:"L" project:"home" status:"pending" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0"]
+[description:"Buy a disk cabage for the spared hard - drive" due:"1556640000" entry:"1556465743" modified:"1556721943" priority:"M" project:"home" status:"pending" uuid:"092dd678-f7ba-4add-8558-9f9b1e521a1b"]
+[depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1556985600" entry:"1556703942" modified:"1556722366" priority:"M" project:"home" status:"pending" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
