@@ -117,3 +117,6 @@ time 1557025055
 old [description:"Buy a Mac Pro" due:"1561910400" entry:"1557023755" modified:"1557025032" priority:"L" project:"home" status:"waiting" uuid:"4fb82fe1-2735-484f-8c02-2fadc03075ee" wait:"2147356800"]
 new [description:"Buy a Mac Pro" due:"1561910400" end:"1557025053" entry:"1557023755" modified:"1557025055" priority:"L" project:"home" status:"deleted" uuid:"4fb82fe1-2735-484f-8c02-2fadc03075ee" wait:"2147356800"]
 ---
+time 1557041725
+new [description:"Buy A Mac Pro" due:"1575129600" entry:"1557041725" modified:"1557041725" priority:"L" project:"home" status:"pending" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
+---

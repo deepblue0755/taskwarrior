@@ -36,3 +36,4 @@
 {"description":"Buy a Mac Pro","entry":"20190505T023555Z","modified":"20190505T023555Z","priority":"L","project":"home","status":"waiting","uuid":"4fb82fe1-2735-484f-8c02-2fadc03075ee","wait":"20380117T160000Z"}
 {"description":"Buy a Mac Pro","due":"20190630T160000Z","entry":"20190505T023555Z","modified":"20190505T025712Z","priority":"L","project":"home","status":"waiting","uuid":"4fb82fe1-2735-484f-8c02-2fadc03075ee","wait":"20380117T160000Z"}
 {"description":"Buy a Mac Pro","due":"20190630T160000Z","end":"20190505T025733Z","entry":"20190505T023555Z","modified":"20190505T025735Z","priority":"L","project":"home","status":"deleted","uuid":"4fb82fe1-2735-484f-8c02-2fadc03075ee","wait":"20380117T160000Z"}
+{"description":"Buy A Mac Pro","due":"20191130T160000Z","entry":"20190505T073525Z","modified":"20190505T073525Z","priority":"L","project":"home","status":"pending","uuid":"8ceef7b9-0519-433d-9949-9be225b91a4f"}
