@@ -2,3 +2,4 @@
 [description:"Buy a disk cabage for the spared hard - drive" due:"1556640000" entry:"1556465743" modified:"1556721943" priority:"M" project:"home" status:"pending" uuid:"092dd678-f7ba-4add-8558-9f9b1e521a1b"]
 [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1556985600" entry:"1556703942" modified:"1556722366" priority:"M" project:"home" status:"pending" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
 [description:"Buy A Mac Pro" due:"1575129600" entry:"1557041725" modified:"1557041725" priority:"L" project:"home" status:"pending" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
+[description:"Buy a 128G udisk for kids program prio:M" due:"1559232000" entry:"1557045145" modified:"1557045193" priority:"M" project:"home" status:"pending" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
