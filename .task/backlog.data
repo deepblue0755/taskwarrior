@@ -40,3 +40,5 @@
 {"description":"Buy a 128G udisk for kids program prio:M","due":"20190530T160000Z","entry":"20190505T083225Z","modified":"20190505T083225Z","project":"home","status":"pending","uuid":"9930e21e-3285-4383-ad83-f5d9b09731ae"}
 {"description":"Buy a 128G udisk for kids program prio:M","due":"20190530T160000Z","entry":"20190505T083225Z","modified":"20190505T083313Z","priority":"M","project":"home","status":"pending","uuid":"9930e21e-3285-4383-ad83-f5d9b09731ae"}
 {"description":"buy a tea table cloth and clean the table","due":"20190531T160000Z","entry":"20190505T120748Z","modified":"20190505T120748Z","priority":"H","project":"home","status":"pending","uuid":"7967ccff-a53d-49ae-8cf9-30f728fb7b37"}
+{"description":"Prepare Gift For Mothers Day","due":"20190509T160000Z","entry":"20190506T052502Z","modified":"20190506T052502Z","priority":"H","project":"home","status":"pending","uuid":"aae3d18a-c745-4745-bd63-f35278a1c7ab"}
+{"description":"Buy a disk cabage for the spared hard - drive","due":"20190530T160000Z","entry":"20190428T153543Z","modified":"20190506T052542Z","priority":"M","project":"home","status":"pending","uuid":"092dd678-f7ba-4add-8558-9f9b1e521a1b"}
