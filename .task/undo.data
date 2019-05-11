@@ -137,3 +137,7 @@ time 1557120342
 old [description:"Buy a disk cabage for the spared hard - drive" due:"1556640000" entry:"1556465743" modified:"1556721943" priority:"M" project:"home" status:"pending" uuid:"092dd678-f7ba-4add-8558-9f9b1e521a1b"]
 new [description:"Buy a disk cabage for the spared hard - drive" due:"1559232000" entry:"1556465743" modified:"1557120342" priority:"M" project:"home" status:"pending" uuid:"092dd678-f7ba-4add-8558-9f9b1e521a1b"]
 ---
+time 1557550046
+old [description:"Prepare Gift For Mothers Day" due:"1557417600" entry:"1557120302" modified:"1557120302" priority:"H" project:"home" status:"pending" uuid:"aae3d18a-c745-4745-bd63-f35278a1c7ab"]
+new [description:"Prepare Gift For Mothers Day" due:"1557417600" end:"1557550046" entry:"1557120302" modified:"1557550046" priority:"H" project:"home" status:"completed" uuid:"aae3d18a-c745-4745-bd63-f35278a1c7ab"]
+---
