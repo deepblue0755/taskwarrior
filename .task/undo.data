@@ -141,3 +141,7 @@ time 1557550046
 old [description:"Prepare Gift For Mothers Day" due:"1557417600" entry:"1557120302" modified:"1557120302" priority:"H" project:"home" status:"pending" uuid:"aae3d18a-c745-4745-bd63-f35278a1c7ab"]
 new [description:"Prepare Gift For Mothers Day" due:"1557417600" end:"1557550046" entry:"1557120302" modified:"1557550046" priority:"H" project:"home" status:"completed" uuid:"aae3d18a-c745-4745-bd63-f35278a1c7ab"]
 ---
+time 1557899971
+old [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1556985600" entry:"1556703942" modified:"1556722366" priority:"M" project:"home" status:"pending" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
+new [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1559232000" entry:"1556703942" modified:"1557899971" priority:"M" project:"home" status:"pending" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
+---
