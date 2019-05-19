@@ -145,3 +145,13 @@ time 1557899971
 old [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1556985600" entry:"1556703942" modified:"1556722366" priority:"M" project:"home" status:"pending" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
 new [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1559232000" entry:"1556703942" modified:"1557899971" priority:"M" project:"home" status:"pending" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
 ---
+time 1558275456
+old [description:"buy a tea table cloth and clean the table" due:"1559318400" entry:"1557058068" modified:"1557058068" priority:"H" project:"home" status:"pending" uuid:"7967ccff-a53d-49ae-8cf9-30f728fb7b37"]
+new [description:"buy a tea table cloth and clean the table" due:"1559318400" end:"1558275456" entry:"1557058068" modified:"1558275456" priority:"H" project:"home" status:"completed" uuid:"7967ccff-a53d-49ae-8cf9-30f728fb7b37"]
+---
+time 1558275499
+new [description:"Tidy the Tea Table" due:"1559232000" entry:"1558275499" modified:"1558275499" priority:"H" project:"home" status:"pending" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
+---
+time 1558275645
+new [description:"buy a curtain for living room" due:"1559232000" entry:"1558275645" modified:"1558275645" priority:"M" project:"home" status:"pending" uuid:"115c621f-edee-4229-a5e4-892a4d6a3001"]
+---
