@@ -16,3 +16,5 @@ en.prepl
 en.pws
 psv.ini
 tmp.sh
+.emacs
+.emacs.d/
