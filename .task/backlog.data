@@ -47,3 +47,4 @@
 {"description":"buy a tea table cloth and clean the table","due":"20190531T160000Z","end":"20190519T141736Z","entry":"20190505T120748Z","modified":"20190519T141736Z","priority":"H","project":"home","status":"completed","uuid":"7967ccff-a53d-49ae-8cf9-30f728fb7b37"}
 {"description":"Tidy the Tea Table","due":"20190530T160000Z","entry":"20190519T141819Z","modified":"20190519T141819Z","priority":"H","project":"home","status":"pending","uuid":"78950841-34d4-434b-8949-baa84922fd79"}
 {"description":"buy a curtain for living room","due":"20190530T160000Z","entry":"20190519T142045Z","modified":"20190519T142045Z","priority":"M","project":"home","status":"pending","uuid":"115c621f-edee-4229-a5e4-892a4d6a3001"}
+{"description":"clean the wash machine","due":"20190630T160000Z","entry":"20190524T155312Z","modified":"20190524T155312Z","priority":"M","project":"home","status":"pending","uuid":"6327e2cf-f875-4cd1-87b0-d6f5c377b491"}
