@@ -8,3 +8,4 @@
 [description:"clean the wash machine" due:"1561910400" entry:"1558713192" modified:"1558713192" priority:"M" project:"home" status:"pending" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491"]
 [description:"read APUE chapter 1-3" due:"1560787200" entry:"1558713387" modified:"1558713387" priority:"M" project:"linux" status:"pending" uuid:"6520d931-fa5f-4024-b715-2946dbec8408"]
 [description:"Buy a 4T Disk for Multi - Media" due:"1561910400" entry:"1558755570" modified:"1558755570" priority:"M" project:"home" status:"pending" uuid:"0b724561-1049-482f-96e3-86f4df5081d8"]
+[description:"购买牛初乳" due:"1559318400" entry:"1558781565" modified:"1558781565" priority:"M" project:"home" status:"pending" uuid:"57b0b921-b993-4235-93cb-e01cfbd657ae"]
