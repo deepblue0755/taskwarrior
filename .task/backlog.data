@@ -49,3 +49,4 @@
 {"description":"buy a curtain for living room","due":"20190530T160000Z","entry":"20190519T142045Z","modified":"20190519T142045Z","priority":"M","project":"home","status":"pending","uuid":"115c621f-edee-4229-a5e4-892a4d6a3001"}
 {"description":"clean the wash machine","due":"20190630T160000Z","entry":"20190524T155312Z","modified":"20190524T155312Z","priority":"M","project":"home","status":"pending","uuid":"6327e2cf-f875-4cd1-87b0-d6f5c377b491"}
 {"description":"read APUE chapter 1-3","due":"20190617T160000Z","entry":"20190524T155627Z","modified":"20190524T155627Z","priority":"M","project":"linux","status":"pending","uuid":"6520d931-fa5f-4024-b715-2946dbec8408"}
+{"description":"Buy a 4T Disk for Multi - Media","due":"20190630T160000Z","entry":"20190525T033930Z","modified":"20190525T033930Z","priority":"M","project":"home","status":"pending","uuid":"0b724561-1049-482f-96e3-86f4df5081d8"}
