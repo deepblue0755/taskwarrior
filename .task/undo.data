@@ -167,3 +167,7 @@ new [description:"Buy a 4T Disk for Multi - Media" due:"1561910400" entry:"15587
 time 1558781565
 new [description:"购买牛初乳" due:"1559318400" entry:"1558781565" modified:"1558781565" priority:"M" project:"home" status:"pending" uuid:"57b0b921-b993-4235-93cb-e01cfbd657ae"]
 ---
+time 1558959324
+old [description:"购买牛初乳" due:"1559318400" entry:"1558781565" modified:"1558781565" priority:"M" project:"home" status:"pending" uuid:"57b0b921-b993-4235-93cb-e01cfbd657ae"]
+new [description:"购买牛初乳" due:"1559318400" end:"1558959324" entry:"1558781565" modified:"1558959324" priority:"M" project:"home" status:"completed" uuid:"57b0b921-b993-4235-93cb-e01cfbd657ae"]
+---
