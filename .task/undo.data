@@ -171,3 +171,7 @@ time 1558959324
 old [description:"购买牛初乳" due:"1559318400" entry:"1558781565" modified:"1558781565" priority:"M" project:"home" status:"pending" uuid:"57b0b921-b993-4235-93cb-e01cfbd657ae"]
 new [description:"购买牛初乳" due:"1559318400" end:"1558959324" entry:"1558781565" modified:"1558959324" priority:"M" project:"home" status:"completed" uuid:"57b0b921-b993-4235-93cb-e01cfbd657ae"]
 ---
+time 1559056015
+old [description:"Buy a 128G udisk for kids program prio:M" due:"1559232000" entry:"1557045145" modified:"1557045193" priority:"M" project:"home" status:"pending" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
+new [description:"Buy a 128G udisk for kid program" due:"1559232000" entry:"1557045145" modified:"1559056015" priority:"M" project:"home" status:"pending" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
+---

@@ -52,3 +52,4 @@
 {"description":"Buy a 4T Disk for Multi - Media","due":"20190630T160000Z","entry":"20190525T033930Z","modified":"20190525T033930Z","priority":"M","project":"home","status":"pending","uuid":"0b724561-1049-482f-96e3-86f4df5081d8"}
 {"description":"购买牛初乳","due":"20190531T160000Z","entry":"20190525T105245Z","modified":"20190525T105245Z","priority":"M","project":"home","status":"pending","uuid":"57b0b921-b993-4235-93cb-e01cfbd657ae"}
 {"description":"购买牛初乳","due":"20190531T160000Z","end":"20190527T121524Z","entry":"20190525T105245Z","modified":"20190527T121524Z","priority":"M","project":"home","status":"completed","uuid":"57b0b921-b993-4235-93cb-e01cfbd657ae"}
+{"description":"Buy a 128G udisk for kid program","due":"20190530T160000Z","entry":"20190505T083225Z","modified":"20190528T150655Z","priority":"M","project":"home","status":"pending","uuid":"9930e21e-3285-4383-ad83-f5d9b09731ae"}
