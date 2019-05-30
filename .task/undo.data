@@ -218,3 +218,10 @@ time 1559057927
 old [description:"Buy A Mac Pro" due:"1575129600" entry:"1557041725" modified:"1557041725" priority:"L" project:"home" status:"pending" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
 new [description:"Buy A Mac Pro" due:"1575129600" entry:"1557041725" modified:"1559057927" priority:"L" project:"home" status:"pending" tags:"Mac" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
 ---
+time 1559132807
+new [description:"Change Bicycle Seat Position" due:"1559664000" entry:"1559132807" modified:"1559132807" priority:"M" project:"home" status:"pending" tags:"bicycle" uuid:"2fe28891-94cd-4c39-a07f-4f70827e078e"]
+---
+time 1559225092
+old [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1559232000" entry:"1556703942" modified:"1559057793" priority:"M" project:"home" status:"pending" tags:"iPhone" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
+new [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1559232000" end:"1559225092" entry:"1556703942" modified:"1559225092" priority:"M" project:"home" status:"completed" tags:"iPhone" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
+---
