@@ -238,3 +238,7 @@ time 1559439018
 old [description:"Buy A Mac Pro" due:"1575129600" entry:"1557041725" modified:"1559057927" priority:"L" project:"home" status:"pending" tags:"Mac" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
 new [description:"Buy A Mac Pro" due:"1575129600" end:"1559439018" entry:"1557041725" modified:"1559439018" priority:"L" project:"home" status:"completed" tags:"Mac" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
 ---
+time 1559439425
+old [description:"Tidy the Tea Table" due:"1559232000" entry:"1558275499" modified:"1559057761" priority:"H" project:"home" status:"pending" tags:"clean" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
+new [description:"Tidy the Tea Table" due:"1560528000" entry:"1558275499" modified:"1559439425" priority:"H" project:"home" status:"pending" tags:"clean" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
+---

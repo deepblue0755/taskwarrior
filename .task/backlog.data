@@ -70,3 +70,4 @@
 {"description":"Master Vim Scripts","due":"20190630T160000Z","entry":"20190602T012921Z","modified":"20190602T012921Z","priority":"M","project":"linux","status":"pending","tags":["vim"],"uuid":"b4da1c12-2662-4981-aac9-df7d42225d5b"}
 {"description":"Master Git Submodule function","due":"20190630T160000Z","entry":"20190602T012951Z","modified":"20190602T012951Z","priority":"M","project":"linux","status":"pending","tags":["git"],"uuid":"d32a2d1f-22b6-4ac7-9f13-8a14fd673652"}
 {"description":"Buy A Mac Pro","due":"20191130T160000Z","end":"20190602T013018Z","entry":"20190505T073525Z","modified":"20190602T013018Z","priority":"L","project":"home","status":"completed","tags":["Mac"],"uuid":"8ceef7b9-0519-433d-9949-9be225b91a4f"}
+{"description":"Tidy the Tea Table","due":"20190614T160000Z","entry":"20190519T141819Z","modified":"20190602T013705Z","priority":"H","project":"home","status":"pending","tags":["clean"],"uuid":"78950841-34d4-434b-8949-baa84922fd79"}
