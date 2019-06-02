@@ -242,3 +242,7 @@ time 1559439425
 old [description:"Tidy the Tea Table" due:"1559232000" entry:"1558275499" modified:"1559057761" priority:"H" project:"home" status:"pending" tags:"clean" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
 new [description:"Tidy the Tea Table" due:"1560528000" entry:"1558275499" modified:"1559439425" priority:"H" project:"home" status:"pending" tags:"clean" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
 ---
+time 1559458784
+old [description:"buy a desk face" due:"1560787200" entry:"1559404356" modified:"1559404356" priority:"M" project:"home" status:"pending" tags:"desk" uuid:"d68ed842-9975-45ce-bb17-4dedd0590fae"]
+new [description:"buy a desk face" due:"1560787200" end:"1559458784" entry:"1559404356" modified:"1559458784" priority:"M" project:"home" status:"completed" tags:"desk" uuid:"d68ed842-9975-45ce-bb17-4dedd0590fae"]
+---
