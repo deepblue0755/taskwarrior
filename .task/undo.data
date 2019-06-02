@@ -225,3 +225,16 @@ time 1559225092
 old [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1559232000" entry:"1556703942" modified:"1559057793" priority:"M" project:"home" status:"pending" tags:"iPhone" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
 new [depends:"092dd678-f7ba-4add-8558-9f9b1e521a1b" description:"backup Yao's iphone pictures to the spared 250G hard - dirve" due:"1559232000" end:"1559225092" entry:"1556703942" modified:"1559225092" priority:"M" project:"home" status:"completed" tags:"iPhone" uuid:"13dbf2f6-ea12-46ee-957d-b0975f222fae"]
 ---
+time 1559404356
+new [description:"buy a desk face" due:"1560787200" entry:"1559404356" modified:"1559404356" priority:"M" project:"home" status:"pending" tags:"desk" uuid:"d68ed842-9975-45ce-bb17-4dedd0590fae"]
+---
+time 1559438961
+new [description:"Master Vim Scripts" due:"1561910400" entry:"1559438961" modified:"1559438961" priority:"M" project:"linux" status:"pending" tags:"vim" uuid:"b4da1c12-2662-4981-aac9-df7d42225d5b"]
+---
+time 1559438991
+new [description:"Master Git Submodule function" due:"1561910400" entry:"1559438991" modified:"1559438991" priority:"M" project:"linux" status:"pending" tags:"git" uuid:"d32a2d1f-22b6-4ac7-9f13-8a14fd673652"]
+---
+time 1559439018
+old [description:"Buy A Mac Pro" due:"1575129600" entry:"1557041725" modified:"1559057927" priority:"L" project:"home" status:"pending" tags:"Mac" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
+new [description:"Buy A Mac Pro" due:"1575129600" end:"1559439018" entry:"1557041725" modified:"1559439018" priority:"L" project:"home" status:"completed" tags:"Mac" uuid:"8ceef7b9-0519-433d-9949-9be225b91a4f"]
+---
