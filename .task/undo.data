@@ -246,3 +246,19 @@ time 1559458784
 old [description:"buy a desk face" due:"1560787200" entry:"1559404356" modified:"1559404356" priority:"M" project:"home" status:"pending" tags:"desk" uuid:"d68ed842-9975-45ce-bb17-4dedd0590fae"]
 new [description:"buy a desk face" due:"1560787200" end:"1559458784" entry:"1559404356" modified:"1559458784" priority:"M" project:"home" status:"completed" tags:"desk" uuid:"d68ed842-9975-45ce-bb17-4dedd0590fae"]
 ---
+time 1559983335
+new [description:"buy a bluetooth mouse for mac" due:"1561910400" entry:"1559983335" modified:"1559983335" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+---
+time 1559983356
+new [description:"buy a bluetooth keyboard for mac" due:"1561910400" entry:"1559983356" modified:"1559983356" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
+---
+time 1559983376
+new [description:"buy a alumnium board for mac" due:"1561910400" entry:"1559983376" modified:"1559983376" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"35707222-f237-4490-a77c-a539f51414b4"]
+---
+time 1559983421
+old [description:"Change Bicycle Seat Position" due:"1559664000" entry:"1559132807" modified:"1559132807" priority:"M" project:"home" status:"pending" tags:"bicycle" uuid:"2fe28891-94cd-4c39-a07f-4f70827e078e"]
+new [description:"Change Bicycle Seat Position" due:"1559664000" end:"1559983421" entry:"1559132807" modified:"1559983421" priority:"M" project:"home" status:"completed" tags:"bicycle" uuid:"2fe28891-94cd-4c39-a07f-4f70827e078e"]
+---
+time 1559985853
+new [description:"Taskwarrior add Dod column to list" due:"1560528000" entry:"1559985853" modified:"1559985853" priority:"L" project:"linux" status:"pending" tags:"DoD" uuid:"b950abfb-ffd9-4c36-8f1d-94bc9ed0ff79"]
+---
