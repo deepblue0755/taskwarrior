@@ -300,3 +300,11 @@ time 1560870205
 old [description:"buy a alumnium board for mac" due:"1561910400" entry:"1559983376" modified:"1559983376" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"35707222-f237-4490-a77c-a539f51414b4"]
 new [description:"buy a alumnium board for mac" due:"1561910400" end:"1560870205" entry:"1559983376" modified:"1560870205" priority:"M" project:"home" status:"completed" tags:"Mac" uuid:"35707222-f237-4490-a77c-a539f51414b4"]
 ---
+time 1563112680
+old [description:"buy a bluetooth mouse for mac" due:"1561910400" entry:"1559983335" modified:"1559983335" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+new [description:"buy a bluetooth mouse for mac" due:"1564588800" entry:"1559983335" modified:"1563112680" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+---
+time 1563112732
+old [description:"buy a bluetooth keyboard for mac" due:"1561910400" entry:"1559983356" modified:"1559983356" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
+new [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559983356" modified:"1563112732" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
+---
