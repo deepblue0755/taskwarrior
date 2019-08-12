@@ -323,3 +323,11 @@ time 1563117697
 old [description:"Build A High Performance Linux Server" due:"1561910400" entry:"1556465621" modified:"1559057913" priority:"L" project:"home" status:"pending" tags:"server" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0"]
 new [description:"Build A High Performance Linux Server" due:"1577721600" entry:"1556465621" modified:"1563117697" priority:"L" project:"home" status:"pending" tags:"server" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0"]
 ---
+time 1565623570
+old [description:"Buy a 128G udisk for kid program" due:"1567180800" entry:"1557045145" modified:"1563117583" priority:"M" project:"home" status:"pending" tags:"udisk" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
+new [description:"Buy a 128G udisk for kid program" due:"1567180800" end:"1565623570" entry:"1557045145" modified:"1565623570" priority:"M" project:"home" status:"completed" tags:"udisk" uuid:"9930e21e-3285-4383-ad83-f5d9b09731ae"]
+---
+time 1565623581
+old [description:"read APUE chapter 1-3" due:"1561219200" entry:"1558713387" modified:"1560870190" priority:"M" project:"linux" status:"pending" tags:"APUE" uuid:"6520d931-fa5f-4024-b715-2946dbec8408"]
+new [description:"read APUE chapter 1-3" due:"1561219200" end:"1565623581" entry:"1558713387" modified:"1565623581" priority:"M" project:"linux" status:"completed" tags:"APUE" uuid:"6520d931-fa5f-4024-b715-2946dbec8408"]
+---
