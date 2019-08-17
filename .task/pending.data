@@ -10,3 +10,4 @@
 [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559983356" modified:"1563112732" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
 [description:"Taskwarrior add Dod column to list" due:"1560528000" entry:"1559985853" modified:"1559985853" priority:"L" project:"linux" status:"pending" tags:"DoD" uuid:"b950abfb-ffd9-4c36-8f1d-94bc9ed0ff79"]
 [description:"Buy a disk cabage for 4T TV storage" due:"1564502400" entry:"1563117536" modified:"1563117536" priority:"M" project:"home" status:"pending" tags:"4T" uuid:"94778f61-caf6-46e0-abc3-b4739e8dd3ee"]
+[description:"buy a rasp4 and a alumnium case" due:"1567267200" entry:"1566054517" modified:"1566054517" priority:"L" project:"linux" status:"pending" tags:"raspberry4" uuid:"ecd073d2-c6c2-43a4-8c56-d747f38e3175"]
