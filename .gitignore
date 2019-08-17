@@ -21,3 +21,6 @@ tmp.sh
 tmp.txt
 JSON_ERROR_LIST.txt
 videos/
+.inputrc
+.profile
+.vimrc
