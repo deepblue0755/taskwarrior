@@ -333,4 +333,30 @@ new [description:"read APUE chapter 1-3" due:"1561219200" end:"1565623581" entry
 ---
 time 1566054517
 new [description:"buy a rasp4 and a alumnium case" due:"1567267200" entry:"1566054517" modified:"1566054517" priority:"L" project:"linux" status:"pending" tags:"raspberry4" uuid:"ecd073d2-c6c2-43a4-8c56-d747f38e3175"]
+=======
+time 1566187673
+new [description:"build up gdb knowledge" due:"1577721600" entry:"1566187673" modified:"1566187673" priority:"H" project:"linux" status:"pending" tags:"gdb" uuid:"1e42bb55-012d-4cf4-9503-7dab6a768616"]
+---
+time 1566188465
+old [description:"buy a bluetooth mouse for mac" due:"1564588800" entry:"1559983335" modified:"1563112680" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+new [description:"buy a bluetooth mouse for mac" due:"1564588800" entry:"1559983335" modified:"1566188465" priority:"M" project:"purchase" status:"pending" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+---
+time 1566188553
+old [description:"Buy a disk cabage for 4T TV storage" due:"1564502400" entry:"1563117536" modified:"1563117536" priority:"M" project:"home" status:"pending" tags:"4T" uuid:"94778f61-caf6-46e0-abc3-b4739e8dd3ee"]
+new [description:"Buy a disk cabage for 4T TV storage" due:"1564502400" entry:"1563117536" modified:"1566188553" priority:"M" project:"purchase" status:"pending" tags:"4T" uuid:"94778f61-caf6-46e0-abc3-b4739e8dd3ee"]
+---
+time 1566188569
+old [description:"buy a curtain for living room" due:"1567180800" entry:"1558275645" modified:"1560613432" priority:"M" project:"home" status:"pending" tags:"curtain" uuid:"115c621f-edee-4229-a5e4-892a4d6a3001"]
+new [description:"buy a curtain for living room" due:"1567180800" entry:"1558275645" modified:"1566188569" priority:"M" project:"purchase" status:"pending" tags:"curtain" uuid:"115c621f-edee-4229-a5e4-892a4d6a3001"]
+---
+time 1566188584
+old [description:"Buy a 4T Disk for Multi - Media" due:"1567180800" entry:"1558755570" modified:"1563117616" priority:"M" project:"home" status:"pending" tags:"4T" uuid:"0b724561-1049-482f-96e3-86f4df5081d8"]
+new [description:"Buy a 4T Disk for Multi - Media" due:"1567180800" entry:"1558755570" modified:"1566188584" priority:"M" project:"purchase" status:"pending" tags:"4T" uuid:"0b724561-1049-482f-96e3-86f4df5081d8"]
+---
+time 1566188594
+old [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559983356" modified:"1563112732" priority:"M" project:"home" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
+new [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559983356" modified:"1566188594" priority:"M" project:"purchase" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
+---
+time 1566316900
+new [description:"get gdb's config files example from github" due:"1566316800" entry:"1566316900" modified:"1566316900" priority:"H" project:"linux" status:"pending" tags:"github" uuid:"89ee6ba1-b038-464b-a91f-a97ca3113c9e"]
 ---
