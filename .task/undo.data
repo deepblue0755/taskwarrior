@@ -360,3 +360,23 @@ new [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559
 time 1566316900
 new [description:"get gdb's config files example from github" due:"1566316800" entry:"1566316900" modified:"1566316900" priority:"H" project:"linux" status:"pending" tags:"github" uuid:"89ee6ba1-b038-464b-a91f-a97ca3113c9e"]
 ---
+time 1570509939
+old [description:"Tidy the Tea Table" due:"1561219200" entry:"1558275499" modified:"1560870173" priority:"H" project:"home" status:"pending" tags:"clean" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
+new [description:"Tidy the Tea Table" due:"1561219200" end:"1570509939" entry:"1558275499" modified:"1570509939" priority:"H" project:"home" status:"completed" tags:"clean" uuid:"78950841-34d4-434b-8949-baa84922fd79"]
+---
+time 1570509954
+old [description:"buy a bluetooth mouse for mac" due:"1564588800" entry:"1559983335" modified:"1566188465" priority:"M" project:"purchase" status:"pending" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+new [description:"buy a bluetooth mouse for mac" due:"1564588800" end:"1570509954" entry:"1559983335" modified:"1570509954" priority:"M" project:"purchase" status:"completed" tags:"Mac" uuid:"eff259f6-26d5-4509-9860-263e6854731b"]
+---
+time 1570509966
+old [description:"Buy a disk cabage for 4T TV storage" due:"1564502400" entry:"1563117536" modified:"1566188553" priority:"M" project:"purchase" status:"pending" tags:"4T" uuid:"94778f61-caf6-46e0-abc3-b4739e8dd3ee"]
+new [description:"Buy a disk cabage for 4T TV storage" due:"1564502400" end:"1570509966" entry:"1563117536" modified:"1570509966" priority:"M" project:"purchase" status:"completed" tags:"4T" uuid:"94778f61-caf6-46e0-abc3-b4739e8dd3ee"]
+---
+time 1570509974
+old [description:"buy a rasp4 and a alumnium case" due:"1567267200" entry:"1566054517" modified:"1566054517" priority:"L" project:"linux" status:"pending" tags:"raspberry4" uuid:"ecd073d2-c6c2-43a4-8c56-d747f38e3175"]
+new [description:"buy a rasp4 and a alumnium case" due:"1567267200" end:"1570509974" entry:"1566054517" modified:"1570509974" priority:"L" project:"linux" status:"completed" tags:"raspberry4" uuid:"ecd073d2-c6c2-43a4-8c56-d747f38e3175"]
+---
+time 1570510007
+old [description:"buy a curtain for living room" due:"1567180800" entry:"1558275645" modified:"1566188569" priority:"M" project:"purchase" status:"pending" tags:"curtain" uuid:"115c621f-edee-4229-a5e4-892a4d6a3001"]
+new [description:"buy a curtain for living room" due:"1567180800" entry:"1558275645" modified:"1570510007" priority:"M" project:"home" status:"pending" tags:"curtain" uuid:"115c621f-edee-4229-a5e4-892a4d6a3001"]
+---
