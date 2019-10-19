@@ -2,7 +2,7 @@
 [description:"buy a curtain for living room" due:"1567180800" entry:"1558275645" modified:"1570510007" priority:"M" project:"home" status:"pending" tags:"curtain" uuid:"115c621f-edee-4229-a5e4-892a4d6a3001"]
 [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571323442" priority:"M" project:"home" status:"pending" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491"]
 [description:"Buy a 4T Disk for Multi - Media" due:"1567180800" entry:"1558755570" modified:"1566188584" priority:"M" project:"purchase" status:"pending" tags:"4T" uuid:"0b724561-1049-482f-96e3-86f4df5081d8"]
-[description:"plan for sync computer" due:"1560787200" entry:"1559057689" modified:"1559057689" priority:"M" project:"home" status:"pending" tags:"sync" uuid:"1ba6f047-2f94-4d68-b8e3-5b8cfcd10f41"]
+[description:"plan for sync computer" due:"1560787200" end:"1571494552" entry:"1559057689" modified:"1571494552" priority:"M" project:"home" status:"completed" tags:"sync" uuid:"1ba6f047-2f94-4d68-b8e3-5b8cfcd10f41"]
 [description:"Master Vim Scripts" due:"1561910400" entry:"1559438961" modified:"1559438961" priority:"M" project:"linux" status:"pending" tags:"vim" uuid:"b4da1c12-2662-4981-aac9-df7d42225d5b"]
 [description:"Master Git Submodule function" due:"1561910400" entry:"1559438991" modified:"1559438991" priority:"M" project:"linux" status:"pending" tags:"git" uuid:"d32a2d1f-22b6-4ac7-9f13-8a14fd673652"]
 [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559983356" modified:"1566188594" priority:"M" project:"purchase" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
