@@ -396,3 +396,7 @@ time 1571557449
 old [description:"buy a bluetooth keyboard for mac" due:"1567180800" entry:"1559983356" modified:"1566188594" priority:"M" project:"purchase" status:"pending" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
 new [description:"buy a bluetooth keyboard for mac" due:"1567180800" end:"1571557449" entry:"1559983356" modified:"1571557449" priority:"M" project:"purchase" status:"completed" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
 ---
+time 1571561926
+old [description:"Build A High Performance Linux Server" due:"1577721600" entry:"1556465621" modified:"1563117697" priority:"L" project:"home" status:"pending" tags:"server" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0"]
+new [description:"Build A High Performance Linux Server" due:"1577721600" entry:"1556465621" modified:"1571561926" priority:"L" project:"home" status:"waiting" tags:"server" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0" wait:"1577721600"]
+---
