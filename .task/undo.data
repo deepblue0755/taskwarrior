@@ -388,3 +388,7 @@ time 1571494552
 old [description:"plan for sync computer" due:"1560787200" entry:"1559057689" modified:"1559057689" priority:"M" project:"home" status:"pending" tags:"sync" uuid:"1ba6f047-2f94-4d68-b8e3-5b8cfcd10f41"]
 new [description:"plan for sync computer" due:"1560787200" end:"1571494552" entry:"1559057689" modified:"1571494552" priority:"M" project:"home" status:"completed" tags:"sync" uuid:"1ba6f047-2f94-4d68-b8e3-5b8cfcd10f41"]
 ---
+time 1571557348
+old [description:"Taskwarrior add Dod column to list" due:"1560528000" entry:"1559985853" modified:"1559985853" priority:"L" project:"linux" status:"pending" tags:"DoD" uuid:"b950abfb-ffd9-4c36-8f1d-94bc9ed0ff79"]
+new [description:"Taskwarrior add Dod column to list" due:"1560528000" end:"1571557348" entry:"1559985853" modified:"1571557348" priority:"L" project:"linux" status:"completed" tags:"DoD" uuid:"b950abfb-ffd9-4c36-8f1d-94bc9ed0ff79"]
+---
