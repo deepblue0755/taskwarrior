@@ -400,3 +400,15 @@ time 1571561926
 old [description:"Build A High Performance Linux Server" due:"1577721600" entry:"1556465621" modified:"1563117697" priority:"L" project:"home" status:"pending" tags:"server" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0"]
 new [description:"Build A High Performance Linux Server" due:"1577721600" entry:"1556465621" modified:"1571561926" priority:"L" project:"home" status:"waiting" tags:"server" uuid:"2c89b6d3-0b58-4f23-bfcd-500beb0864a0" wait:"1577721600"]
 ---
+time 1571577520
+old [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571323442" priority:"M" project:"home" status:"pending" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491"]
+new [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571577520" priority:"M" project:"home" start:"1577721600" status:"pending" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491"]
+---
+time 1571577555
+old [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571577520" priority:"M" project:"home" start:"1577721600" status:"pending" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491"]
+new [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571577555" priority:"M" project:"home" start:"1577721600" status:"waiting" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491" wait:"1577721600"]
+---
+time 1571577577
+old [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571577555" priority:"M" project:"home" start:"1577721600" status:"waiting" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491" wait:"1577721600"]
+new [description:"clean the wash machine" due:"1577721600" entry:"1558713192" modified:"1571577577" priority:"M" project:"home" status:"waiting" tags:"clean" uuid:"6327e2cf-f875-4cd1-87b0-d6f5c377b491" wait:"1577721600"]
+---
