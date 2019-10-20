@@ -1,3 +1,4 @@
+[description:"buy a bluetooth keyboard for mac" due:"1567180800" end:"1571557449" entry:"1559983356" modified:"1571557449" priority:"M" project:"purchase" status:"completed" tags:"Mac" uuid:"1d6622d7-b69b-478c-90de-808aee5e79a3"]
 [description:"Taskwarrior add Dod column to list" due:"1560528000" end:"1571557348" entry:"1559985853" modified:"1571557348" priority:"L" project:"linux" status:"completed" tags:"DoD" uuid:"b950abfb-ffd9-4c36-8f1d-94bc9ed0ff79"]
 [description:"plan for sync computer" due:"1560787200" end:"1571494552" entry:"1559057689" modified:"1571494552" priority:"M" project:"home" status:"completed" tags:"sync" uuid:"1ba6f047-2f94-4d68-b8e3-5b8cfcd10f41"]
 [description:"buy a rasp4 and a alumnium case" due:"1567267200" end:"1570509974" entry:"1566054517" modified:"1570509974" priority:"L" project:"linux" status:"completed" tags:"raspberry4" uuid:"ecd073d2-c6c2-43a4-8c56-d747f38e3175"]
