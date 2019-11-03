@@ -25,3 +25,6 @@ videos/
 .profile
 .vimrc
 documents
+backup
+tmp
+videos
