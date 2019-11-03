@@ -1,5 +1,4 @@
 .bash_history
-.bash_profile
 .cache/
 .config/
 .dia/
@@ -7,7 +6,6 @@
 .minttyrc
 .sam-ba.historysource
 .ssh/
-.tmux.conf
 .viminfo
 .wget-hsts
 _sam-ba.rc
